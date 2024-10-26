@@ -1,0 +1,1 @@
+Script em python que baixa o áudio de um vídeo do YouTube através de sua url utilizando as bibliotecas pytubefix e os
